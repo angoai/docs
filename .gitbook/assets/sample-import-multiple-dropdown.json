@@ -1,0 +1,46 @@
+[
+  {
+    "asset": "https://asset.url/audio.mp3",
+    "externalId": "audio.mp3",
+    "classifications": [
+      {
+        "answer": [
+          "First-Level Multiple Dropdown",
+          "Answer 2"
+        ],
+        "schemaId": "1627302702396",
+        "classifications": [
+          {
+            "answer": [
+              "Second-Level Multiple Dropdown",
+              "Answer 4"
+            ],
+            "schemaId": "1627302702654"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "asset": "https://asset.url/audio2.mp3",
+    "externalId": "audio2.mp3",
+    "classifications": [
+      {
+        "answer": [
+          "First-Level Multiple Dropdown",
+          "Answer 2"
+        ],
+        "schemaId": "1627302702396",
+        "classifications": [
+          {
+            "answer": [
+              "Second-Level Multiple Dropdown",
+              "Answer 4"
+            ],
+            "schemaId": "1627302702654"
+          }
+        ]
+      }
+    ]
+  }
+]

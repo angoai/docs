@@ -1,0 +1,28 @@
+[
+    {
+        "asset": "https://angohub.s3.us-east-2.amazonaws.com/uploaded-data--1629270219124.txt",
+        "externalId": "testing-text.txt",
+        "objects": [
+            {
+                "schemaId": "1629378613473",
+                "ner": {
+                    "start": 3,
+                    "end": 7
+                }
+            }
+        ]
+    },
+    {
+        "asset": "https://angohub.s3.us-east-2.amazonaws.com/uploaded-data--1629270219124.txt",
+        "externalId": "text_file.txt",
+        "objects": [
+            {
+                "schemaId": "1629378613473",
+                "ner": {
+                    "start": 2,
+                    "end": 6
+                }
+            }
+        ]
+    }
+]

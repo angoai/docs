@@ -1,0 +1,42 @@
+[
+    {
+        "externalId": "test.jpg",
+        "objects": [
+            {
+                "schemaId": "1627287783027",
+                "bounding-box": {
+                    "x": 270.2113309352518,
+                    "y": 238.84892086330933,
+                    "width": 107.91366906474819,
+                    "height": 122.3021582733813
+                },
+                "classifications": [
+                    {
+                        "schemaId": "1627287806195",
+                        "answer": "Bedside Table"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "externalId": "test_2.jpg",
+        "objects": [
+            {
+                "schemaId": "1627287783027",
+                "bounding-box": {
+                    "x": 432.2113453352567,
+                    "y": 123.84892086330345,
+                    "width": 567.91366906474543,
+                    "height": 456.3021582733432
+                },
+                "classifications": [
+                    {
+                        "schemaId": "1627287806195",
+                        "answer": "Bed"
+                    }
+                ]
+            }
+        ]
+    }
+]

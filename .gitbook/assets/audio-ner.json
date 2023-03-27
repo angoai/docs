@@ -1,0 +1,67 @@
+[
+    {
+        "asset": "http://example.com/uploaded-data/___data_premise-611e52757db9b50013351935-1629378694099.mp3",
+        "externalId": "call_1.mp3",
+        "objects": [
+            {
+                "schemaId": "1629378859077",
+                "ner": {
+                    "start": 2.05,
+                    "end": 6.06
+                }
+            }
+        ]
+    },
+    {
+        "asset": "http://example.com/uploaded-data/___data_premise-611e52757db9b50013351935-1629378694583.mp3",
+        "externalId": "call_2.mp3",
+        "objects": [
+            {
+                "schemaId": "1629378859077",
+                "ner": {
+                    "start": 3.05,
+                    "end": 7.06
+                }
+            }
+        ]
+    },
+    {
+        "asset": "http://example.com/uploaded-data/___data_premise-611e52757db9b50013351935-1629378694678.mp3",
+        "externalId": "call_3.mp3",
+        "objects": [
+            {
+                "schemaId": "1629378859077",
+                "ner": {
+                    "start": 4.05,
+                    "end": 5.06
+                }
+            }
+        ]
+    },
+    {
+        "asset": "http://example.com/uploaded-data/___data_premise-611e52757db9b50013351935-1629378694717.mp3",
+        "externalId": "call_4.mp3",
+        "objects": [
+            {
+                "schemaId": "1629378859077",
+                "ner": {
+                    "start": 2.05,
+                    "end": 6.06
+                }
+            }
+        ]
+    },
+    {
+        "asset": "http://example.com/uploaded-data/___data_premise-611e52757db9b50013351935-1629378695288.mp3",
+        "externalId": "call_5.mp3",
+        "objects": [
+            {
+                "schemaId": "1629378859077",
+                "ner": {
+                    "start": 2.05,
+                    "end": 6.06
+                }
+            }
+        ]
+    }
+]
