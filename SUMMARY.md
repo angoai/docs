@@ -126,6 +126,7 @@
 * [Transfer project ontologies between projects](how-to/transfer-project-ontologies-between-projects.md)
 * [Get your Organization ID](how-to/get-your-organization-id.md)
 * [Download your DICOM Brush Segmentations](how-to/download-your-dicom-brush-segmentations.md)
+* [Download your annotations in the COCO, KITTI, or YOLO format](how-to/download-your-annotations-in-the-coco-kitti-or-yolo-format.md)
 * [Perform targeted OCR on images](how-to/perform-targeted-ocr-on-images.md)
 
 ## API

@@ -55,7 +55,7 @@ You will not be removed from your old organization.
 
 If you are part of more than one organization, you may switch between your new and old organization through the _Organization Switcher_ from the top-right corner of the screen, by clicking on your current organization, then on the name of the organization you'd like to switch to.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Users and Roles in Organizations
 
