@@ -16,7 +16,7 @@ This section will show you how to open the re-queue dialog. The sections after t
 
 Enter the _Tasks_ tab (1), then toggle the checkbox (2) next to each task you wish to re-queue. Then, from the _Item_ dropdown click on _Re-queue_ (3). The re-queue dialog will open.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Re-queue a single task from the labeling editor
 

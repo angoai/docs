@@ -116,7 +116,7 @@ The Threshold tool is a subset of the Medical Brush tool. To activate the thresh
 
 When you wish to finalize the threshold annotation, click on _Apply_. The highlighted pixels will be painted over with the tool previously selected.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Pen
 

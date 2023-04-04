@@ -18,7 +18,7 @@ Click on _Add Category_. From the list that appears, click on _Entity_.
 
 A new row will appear named _Entity_. Click on it to expand it.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Give your entity tool a title.
 
@@ -48,4 +48,4 @@ With the _Entity_ tool selected, click and drag on text to highlight the text yo
 
 To edit an annotation, select it by clicking on it, then hover over one of the ends until the cursor turns into an arrow. Drag the annotation until it covers the area you need:
 
-<figure><img src="../../.gitbook/assets/ner-edit (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ner-edit.gif" alt=""><figcaption></figcaption></figure>

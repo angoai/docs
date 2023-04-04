@@ -42,7 +42,7 @@ From the _Tools_ panel on the left sidebar, select a supported labeling tool. Th
 
 If no tools are present in the project, only answer the questions in the _Classifications_ panel.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 #### Nested Questions and Classifications <a href="#nested-questions-and-classifications" id="nested-questions-and-classifications"></a>
 

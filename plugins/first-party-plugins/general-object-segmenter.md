@@ -93,7 +93,7 @@ Enter the _Settings_ tab, then the _Plugins_ section.
 
 Find the plugin, and click on _Open._ A dialog will appear:
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Ensure the dot before the plugin's name is green. The dot indicates the plugin's status, where green signifies the plugin's code is running, and red signifies the plugin's code is not running.

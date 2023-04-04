@@ -30,7 +30,7 @@ If classification questions are present, you may answer them from the _Questions
 
 After selecting a label by clicking on it, hover over one of the edges of the annotation until your cursor turns into an arrow. Click and drag the annotation to where you'd like it to start or end.
 
-<figure><img src="../../.gitbook/assets/ner-edit.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ner-edit (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### Keyboard Shortcuts <a href="#keyboard-shortcuts" id="keyboard-shortcuts"></a>
 

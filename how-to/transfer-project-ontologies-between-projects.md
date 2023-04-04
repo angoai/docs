@@ -5,7 +5,7 @@ Ango Hub allows you to copy the project ontology from one project and paste it i
 1. Navigate to the project containing the ontology you wish to copy.
 2.  Navigate to the _Settings_ tab, then the _Category Schema_ section.
 
-    <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 3.  Click on the "code" button (1) on the right. A panel showing the project's ontology JSON will appear. Copy the JSON to your clipboard using the "copy" button (2).
 
     <figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>

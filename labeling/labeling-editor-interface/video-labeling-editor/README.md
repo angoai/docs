@@ -54,7 +54,7 @@ Once you have created a bounding box, move forward some frames, then edit the la
 Interpolation is currently only available for the Bounding Box labeling tool.
 {% endhint %}
 
-If the object you are following with the label leaves the frame, hover over the label with your mouse cursor and press S or disable the ![](<../../../.gitbook/assets/image (22) (1).png>)toggle next to the annotation from the _Objects_ panel in the lower left of the screen. The label will be hidden from view. To restore it, simply enable its toggle.
+If the object you are following with the label leaves the frame, hover over the label with your mouse cursor and press S or disable the ![](<../../../.gitbook/assets/image (22).png>)toggle next to the annotation from the _Objects_ panel in the lower left of the screen. The label will be hidden from view. To restore it, simply enable its toggle.
 
 #### Frame-Specific Classifications <a href="#nested-questions-and-classifications" id="nested-questions-and-classifications"></a>
 
