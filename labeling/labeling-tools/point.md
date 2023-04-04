@@ -18,7 +18,7 @@ Click on _Add Category_. From the list that appears, click on _Point_.
 
 A new row will appear named _Point_. Click on it to expand it.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Give your point tool a title.
 

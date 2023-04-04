@@ -16,7 +16,7 @@ This section will show you how to open the re-queue dialog. The sections after t
 
 Enter the _Tasks_ tab (1), then toggle the checkbox (2) next to each task you wish to re-queue. Then, from the _Item_ dropdown click on _Re-queue_ (3). The re-queue dialog will open.
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ### Re-queue a single task from the labeling editor
 
@@ -32,7 +32,7 @@ Open the re-queue dialog as shown in [the previous section](re-queuing.md#how-to
 
 From the re-queue dialog, choose _Send Back to Label Queue._
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Remove Annotations**: Deletes the annotations in the task(s) selected. This operation cannot be reversed.
 
@@ -46,6 +46,6 @@ Open the re-queue dialog as shown in [the previous section](re-queuing.md#how-to
 
 From the re-queue dialog, choose _Send Back to Review Queue._
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Remove Reviewer**: Removes the task assignee. If you do not remove the assignee, the task will be re-queued, but it will only be able to be reviewed by the reviewer who has reviewed it earlier. If you do remove it, it will be assigned for review to the first reviewer who comes across it.

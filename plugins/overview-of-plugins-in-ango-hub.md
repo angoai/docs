@@ -18,9 +18,3 @@ We also have a page detailing [how to deploy your plugin to the cloud](plugin-de
 ## Installing Plugins
 
 You can install plugins from our centralized plugin repository, the _Directory_, and quickly add them to your project. [More on the Directory here](installing-plugins.md).
-
-## Legacy Built-In Plugins
-
-Ango Hub offers a number of plugins in an older format, allowing you to perform OCR on assets, plate recognition, DICOM anonymization and more. We call them "Legacy Plugins" and they will be slowly sunset as we develop our next generation plugin architecture.
-
-[You may find information on legacy plugins here](broken-reference).

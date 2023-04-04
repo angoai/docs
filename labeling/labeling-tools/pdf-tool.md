@@ -16,7 +16,7 @@ Click on _Add Category_. From the list that appears, click on _PDF_.
 
 A new row will appear named _PDF_. Click on it to expand it.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Give your PDF tool a title and description.
 
@@ -38,11 +38,11 @@ With the _PDF_ tool selected, click and drag where you’d like the bounding box
 
 #### Single OCR
 
-To perform OCR on the area you've just drawn, click on the area to select it, then right-click it and click on the ![](<../../.gitbook/assets/image (2).png>)_OCR_ button to perform OCR.
+To perform OCR on the area you've just drawn, click on the area to select it, then right-click it and click on the ![](<../../.gitbook/assets/image (3).png>)_OCR_ button to perform OCR.
 
 After performing OCR, Hub will display how confident it is that the OCR results are correct.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Group OCR
 

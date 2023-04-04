@@ -3,7 +3,7 @@
 1. Navigate to the [_Plugins_ page](https://hub.ango.ai/plugin)
 2. Click on _Show Plugin Directory_
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 3. Depending on the format you need, click on the _Add_ button under the converter plugin that coincides with the format. For example, if you need the COCO format, click _Add_ under the _Ango to COCO Converter_ plugin to add it to your project.
 
@@ -14,7 +14,7 @@ If Hub warns you that you need an API key to add a plugin to your organization, 
 4. Navigate to the project where you'd like to get the export, then go to its _Settings_ tab.
 5. From the _Plugins_ section, click _Open_ on the plugin we've just installed. A dialog will pop up:
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 6. Tweak the settings in the _Config JSON_ text area to your liking, then press on _Run_. You will receive a notification with a link to your converted export.
 

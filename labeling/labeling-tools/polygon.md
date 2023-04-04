@@ -18,7 +18,7 @@ Click on _Add Category_. From the list that appears, click on _Polygon_.
 
 A new row will appear named _Polygon_. Click on it to expand it.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Give your polygon tool a title and description.
 

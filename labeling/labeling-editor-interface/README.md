@@ -178,7 +178,7 @@ __<img src="../../.gitbook/assets/image (291).png" alt="" data-size="line">_Chan
 
 #### Right toolbar
 
-![](<../../.gitbook/assets/image (150) (1).png>)
+![](<../../.gitbook/assets/image (150).png>)
 
 1. <img src="../../.gitbook/assets/image (263).png" alt="" data-size="line"> Mark the current task as _Accepted_ (Project Owner, Manager, and Reviewer only)
 2. <img src="../../.gitbook/assets/image (304).png" alt="" data-size="line"> Mark the current task as _Fixed_ (Project Owner, Manager, and Reviewer only)

@@ -18,7 +18,7 @@ Click on _Add Category_. From the list that appears, click on _Rotated Bounding 
 
 A new row will appear named _Rotated Bounding Box_. Click on it to expand it.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Give your rotated bounding box tool a title.
 

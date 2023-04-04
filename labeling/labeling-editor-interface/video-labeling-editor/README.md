@@ -76,7 +76,7 @@ Here's how you would go about doing so:
 2. Navigate to frame 11 and click on Second. This will switch the annotation to Second.
 3. Navigate to frame 21 and disable the ![](<../../../.gitbook/assets/image (31).png>)toggle next to the classification. This will make it so that from frame 21 onwards included, the classification will not be answered.
 4. Navigate to frame 50 and click on Third.
-5. Navigate to frame 61 and disable the ![](<../../../.gitbook/assets/image (15).png>)toggle next to the classification.
+5. Navigate to frame 61 and disable the ![](<../../../.gitbook/assets/image (15) (1).png>)toggle next to the classification.
 
 ### Keyboard Shortcuts <a href="#keyboard-shortcuts" id="keyboard-shortcuts"></a>
 

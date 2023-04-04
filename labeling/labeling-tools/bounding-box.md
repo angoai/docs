@@ -48,7 +48,7 @@ Once you are in the labeling editor, draw a bounding box over the text you'd lik
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-Click on the![](<../../.gitbook/assets/image (7) (1).png>)button to perform OCR on the area highlighted by the box. The OCR results will appear in the context menu, together with how confident our OCR module is about the OCR results:
+Click on the![](<../../.gitbook/assets/image (7) (1) (1).png>)button to perform OCR on the area highlighted by the box. The OCR results will appear in the context menu, together with how confident our OCR module is about the OCR results:
 
 <figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
