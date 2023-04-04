@@ -23,18 +23,26 @@ This article will exclusively go over Ango Hub’s video labeling interface. Fea
 The back and forward arrows allow you to move backwards and forwards one frame at a time. The Play ![](<../../../.gitbook/assets/image (76).png>) button starts and stops playback of the video file. The slider allows you to move between frames by clicking on the playhead and dragging it to find the frame you need.
 
 {% hint style="info" %}
-When dragging with the slider, the frame selected will be loaded when you release the left mouse button for performance reasons.
+When dragging with the slider, the frame selected will only be loaded when you release the left mouse button.
 {% endhint %}
 
 The volume slider (![](<../../../.gitbook/assets/image (30).png>)) allows you to change the volume of the audio when playing the file back.
 
 ## How to Annotate Videos <a href="#how-to-annotate-images" id="how-to-annotate-images"></a>
 
-Annotating videos is similar to annotating images since a video is, in essence, a multi-page image document. There is, however, additional functionality to consider.
+The following are the labeling tools supported on videos:
 
-From the _Tools_ panel on the left sidebar, select a labeling tool. (If none are present, only answer the questions in the _Questions_ panel.)
+* [Bounding Box](../../labeling-tools/bounding-box.md)
+* [Rotated Bounding Box](../../labeling-tools/rotated-bounding-box.md)
+* [Polygon](../../labeling-tools/polygon.md)
+* [Polyline](../../labeling-tools/polyline.md)
+* [Segmentation](../../labeling-tools/segmentation.md)
+* [Point](../../labeling-tools/point.md)
+* [Brush](../../labeling-tools/brush-bucket.md)
 
-![](<../../../.gitbook/assets/image (242).png>)
+From the _Tools_ panel on the left sidebar, select a supported labeling tool. Then, follow the instructions found on each tool's docs page, linked to above.
+
+If no tools are present in the project, only answer the questions in the _Classifications_ panel.
 
 ### Labeling Properties Specific to Videos
 
@@ -46,7 +54,7 @@ Once you have created a bounding box, move forward some frames, then edit the la
 Interpolation is currently only available for the Bounding Box labeling tool.
 {% endhint %}
 
-If the object you are following with the label leaves the frame, hover over the label with your mouse cursor and press S or disable the ![](<../../../.gitbook/assets/image (22).png>)toggle next to the annotation from the _Objects_ panel in the lower left of the screen. The label will be hidden from view. To restore it, simply enable its toggle.
+If the object you are following with the label leaves the frame, hover over the label with your mouse cursor and press S or disable the ![](<../../../.gitbook/assets/image (22) (1).png>)toggle next to the annotation from the _Objects_ panel in the lower left of the screen. The label will be hidden from view. To restore it, simply enable its toggle.
 
 #### Frame-Specific Classifications <a href="#nested-questions-and-classifications" id="nested-questions-and-classifications"></a>
 

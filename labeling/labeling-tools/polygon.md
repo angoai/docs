@@ -18,7 +18,7 @@ Click on _Add Category_. From the list that appears, click on _Polygon_.
 
 A new row will appear named _Polygon_. Click on it to expand it.
 
-![](<../../.gitbook/assets/image (469).png>)
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Give your polygon tool a title and description.
 
@@ -32,12 +32,10 @@ Click on the image where you’d like the first point of the polygon to be. Clic
 
 ![](<../../.gitbook/assets/image (305).png>)
 
-While drawing, you may click anywhere with the right mouse button to delete the last point you have placed. To add a new point after closing the polygon, hold CTRL and click on a point. To delete a point, hold CTRL and right-click on the point you’d like to delete.
+While drawing, you may click anywhere with the right mouse button to delete the last point you have placed.
 
-### Differences between Bounding Box and Polygon <a href="#differences-between-bounding-box-and-polygon" id="differences-between-bounding-box-and-polygon"></a>
+To add a new point after closing the polygon, hold CTRL and click on a point. To delete a point, hold CTRL and right-click on the point you’d like to delete.
 
-The Bounding Box tool allows annotators to create boxes with 4 edges only. The boxes cannot be rotated. This is ideal when we are not interested in the shape of an object but in its position on the asset.
+To quickly trace a polygon without having to click on each point manually, after having drawn the first point, hold _Shift_ then start moving your cursor:
 
-The Polygon tool allows annotators to create polygons with an unlimited number of points. This is ideal to accurately trace around the edges of an object, for example, and is useful when we are interested in annotating the shape of an object.
-
-In most cases, bounding boxes are much faster to create than polygons.
+<figure><img src="../../.gitbook/assets/polygon-continuous.gif" alt=""><figcaption></figcaption></figure>

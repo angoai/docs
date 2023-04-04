@@ -18,9 +18,9 @@ Click on _Add Category_. From the list that appears, click on _Entity_.
 
 A new row will appear named _Entity_. Click on it to expand it.
 
-![](<../../.gitbook/assets/image (426).png>)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Give your entity tool a title and description.
+Give your entity tool a title.
 
 Enable the _Required_ toggle if you want to force labelers to place one. When the toggle is disabled, labelers will be able to save and move to the next asset without creating an entity.
 
@@ -36,7 +36,7 @@ From the _Tools_ section on the left sidebar, select an _Entity_ labeling tool, 
 
 Click on the waveform where you’d like the annotation to start. Keep the left mouse button pressed and drag until where you’d like the annotation to end. Release the left mouse button.
 
-You can change the start and end points of the annotation by dragging on one of the ends. You can drag the entire annotation by clicking and dragging from the middle of the label.
+You can change the start and end points of the annotation by selecting it by clicking it, then by dragging on one of the ends. You can drag the entire annotation by selecting it, then clicking and dragging from the middle of the label.
 
 #### Text <a href="#text" id="text"></a>
 
@@ -45,3 +45,7 @@ From the _Tools_ panel on the left sidebar, select an _Entity_ labeling tool, ma
 ![](<../../.gitbook/assets/image (133).png>)
 
 With the _Entity_ tool selected, click and drag on text to highlight the text you’d like to label.
+
+To edit an annotation, select it by clicking on it, then hover over one of the ends until the cursor turns into an arrow. Drag the annotation until it covers the area you need:
+
+<figure><img src="../../.gitbook/assets/ner-edit (1).gif" alt=""><figcaption></figcaption></figure>

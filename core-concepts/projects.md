@@ -56,4 +56,4 @@ Deleting projects is an irreversible and destructive action. Once a project has 
 There is **no** "Trash" to which recently deleted projects go.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>

@@ -30,39 +30,23 @@ If embedded in the DICOM file, patient data such as Patient ID and Patient Name 
 
 Annotating DICOMs is similar to annotating images and videos since a single-page DICOM is, in essence, an image, and a multi-page DICOM a video. There is, however, additional functionality to consider.
 
-From the _Tools_ panel on the left sidebar, select a _Bounding Box, Rotated Bounding Box, Polygon, Segmentation, or Point_ labeling tool. (If none are present, only answer the questions in the _Questions_ panel below.)
+The following are the labeling tools supported on DICOMs:
+
+* [Bounding Box](../labeling-tools/bounding-box.md)
+* [Rotated Bounding Box](../labeling-tools/rotated-bounding-box.md)
+* [Polygon](../labeling-tools/polygon.md)
+* [Polyline](../labeling-tools/polyline.md)
+* [Segmentation](../labeling-tools/segmentation.md)
+* [Point](../labeling-tools/point.md)
+* [Brush](../labeling-tools/brush-bucket.md)
+
+From the _Tools_ panel on the left sidebar, select a supported labeling tool. Then, follow the instructions found on each tool's docs page, linked to above.
+
+If no tools are present in the project, only answer the questions in the _Classifications_ panel.
 
 When done, move forward to the next page and repeat the process until all pages are labeled.
 
 ![](<../../.gitbook/assets/Screen Shot 2022-05-10 at 15.19.08.png>)
-
-#### Bounding Box <a href="#bounding-box" id="bounding-box"></a>
-
-Click on the image where you’d like the bounding box to start. Release where you’d like the bounding box to end.
-
-After creating the box, you can change its size by dragging on its points. You can drag the entire bounding box by dragging it with the mouse cursor.
-
-#### Rotated Bounding Box
-
-Click on the image where you'd like the top-left corner of the rotated bounding box to be. Release where you'd like the box to end.
-
-You can change the angle of the box by clicking and dragging on the point located just outside the box.
-
-#### Polygon <a href="#polygon" id="polygon"></a>
-
-Click on the image where you’d like the first point of the polygon to be. Click again where you’d like the second point to be, and so on. When you are done, click on the first point again or press on _N_ on your keyboard to close the polygon.
-
-While drawing, you may click anywhere with the right mouse button to delete the last point you have placed. To add a new point after closing the polygon, hold CTRL and click on a point. To delete a point, hold CTRL and right-click on the point you’d like to delete.
-
-#### Segmentation
-
-[More on labeling using the Segmentation tool here](../labeling-tools/segmentation.md).
-
-#### Point <a href="#point" id="point"></a>
-
-Simply click on the image where you’d like the point to be.
-
-You may change the position of the point by clicking and dragging it.
 
 #### Nested Questions and Classifications <a href="#nested-questions-and-classifications" id="nested-questions-and-classifications"></a>
 

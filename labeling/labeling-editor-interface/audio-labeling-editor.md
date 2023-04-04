@@ -42,7 +42,7 @@ From the _Tools_ section on the left sidebar, select an _Entity_ labeling tool, 
 
 Click on the waveform where you’d like the annotation to start. Keep the left mouse button pressed and drag until where you’d like the annotation to end. Release the left mouse button.
 
-You can change the start and end points of the annotation by dragging on one of the ends. You can drag the entire annotation by clicking and dragging from the middle of the label.
+You can change the start and end points of the annotation by selecting it with left-click, then dragging on one of the ends. You can drag the entire annotation by, after selecting it, clicking and dragging from the middle of the label.
 
 If the labeling tool has nested questions, right-click on the label and click on the menu that appears to see and answer the nested questions.
 

@@ -18,9 +18,9 @@ Click on _Add Category_. From the list that appears, click on _Point_.
 
 A new row will appear named _Point_. Click on it to expand it.
 
-![](<../../.gitbook/assets/image (231).png>)
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Give your point tool a title and description.
+Give your point tool a title.
 
 Enable the _Required_ toggle if you want to force labelers to create a point. When the toggle is disabled, labelers will be able to save and move to the next asset without creating a point label on the asset.
 
@@ -34,4 +34,4 @@ Click on the image where you’d like the point to be.
 
 ![](<../../.gitbook/assets/image (219).png>)
 
-You may change the position of the point by clicking and dragging it.
+You may change the position of the point by clicking to select it, then dragging it.

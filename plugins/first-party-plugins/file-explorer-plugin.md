@@ -2,7 +2,7 @@
 
 The File Explorer Plugin is a plugin made, published, and officially supported by Ango AI that allows you to browse a folder in your AWS S3 bucket and quickly import it into Ango Hub.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Plugin Functionality
 

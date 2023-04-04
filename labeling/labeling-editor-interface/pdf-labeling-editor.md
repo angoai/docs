@@ -28,27 +28,25 @@ From the _Tools_ panel on the left sidebar, select a _PDF_ labeling tool, marked
 
 ![](<../../.gitbook/assets/image (160).png>)
 
-#### Highlighting <a href="#highlighting" id="highlighting"></a>
-
-With the _PDF_ tool selected, click and drag on text to highlight the text you’d like to label.
-
-![](<../../.gitbook/assets/image (208).png>)
-
 #### Area <a href="#bounding-box" id="bounding-box"></a>
 
-With the _PDF_ tool selected, keep the _Alt_ (⌥ on macOS) button pressed and click and drag where you’d like the area to be placed.
+With the _PDF_ tool selected, click and drag where you’d like the area to be placed.
 
 ![](<../../.gitbook/assets/image (284).png>)
 
-After creating the area, you can change its size by dragging it from its sides and corners. You can drag the entire area by dragging it with the mouse cursor.
+After creating the area and selecting by clicking on it, you can change its size by dragging it from its sides and corners. You can drag the entire area by dragging it with the mouse cursor.
 
-You can perform OCR on the contents of the box by right-clicking on the box and pressing the <img src="../../.gitbook/assets/image (436).png" alt="" data-size="line">_OCR_ button as shown here:
+You can perform OCR on the contents of the box by selecting it by clicking it, then right-clicking on the box and pressing the ![](<../../.gitbook/assets/image (8).png>)_OCR_ button as shown here:
 
 ![](<../../.gitbook/assets/image (236).png>)
 
+After having performed OCR, you'll be shown how confident Hub is that the OCR it output is correct:
+
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
 #### Nested Questions and Classifications <a href="#nested-questions-and-classifications" id="nested-questions-and-classifications"></a>
 
-If the labels have nested questions, right-click on each label and click on the menu item that appears to see and answer the nested questions.
+If the labels have nested questions, after selecting a label by clicking on it, right-click on a label and click on the menu item that appears to see and answer the nested questions.
 
 If classification questions are present, you may answer them from the _Questions_ panel on the left sidebar.
 

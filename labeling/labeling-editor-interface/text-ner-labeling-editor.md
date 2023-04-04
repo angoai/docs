@@ -20,11 +20,17 @@ From the _Tools_ panel on the left sidebar, select an _Entity_ labeling tool, ma
 
 With the _Entity_ tool selected, click and drag on text to highlight the text you’d like to label.
 
-If the labels have nested questions, right-click on each label and click on the menu item that appears to see and answer the nested questions.
+If the labels have nested questions, select a label by clicking on it, then right-click on each label and click on the menu item that appears to see and answer the nested questions.
 
 If classification questions are present, you may answer them from the _Questions_ panel on the left sidebar.
 
 ![](<../../.gitbook/assets/image (294).png>)
+
+### Editing Text Annotations <a href="#keyboard-shortcuts" id="keyboard-shortcuts"></a>
+
+After selecting a label by clicking on it, hover over one of the edges of the annotation until your cursor turns into an arrow. Click and drag the annotation to where you'd like it to start or end.
+
+<figure><img src="../../.gitbook/assets/ner-edit.gif" alt=""><figcaption></figcaption></figure>
 
 ### Keyboard Shortcuts <a href="#keyboard-shortcuts" id="keyboard-shortcuts"></a>
 

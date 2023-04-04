@@ -18,7 +18,7 @@ Click on _Add Category_. From the list that appears, click on _Polygon_.
 
 A new row will appear named _Polyline_. Click on it to expand it.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Give your polyline tool a title and description.
 
@@ -31,3 +31,5 @@ If you would like to ask labelers further questions, for example, if you want to
 Click on the image where you’d like the first point of the polyline to be. Click again where you’d like the second point to be, and so on. When you are done, click on the first point again or press on _N_ on your keyboard to close the polygon.
 
 While drawing, you may click anywhere with the right mouse button to delete the last point you have placed.
+
+To edit a polyline's points, select it by clicking on it, then drag the polyline itself or one of its points.

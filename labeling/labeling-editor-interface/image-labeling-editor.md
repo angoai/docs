@@ -28,49 +28,29 @@ The zoom level indicator marks the current zoom level of the image. 100% represe
 
 ### How to Annotate Images <a href="#how-to-annotate-images" id="how-to-annotate-images"></a>
 
-From the _Tools_ panel on the left sidebar, select a _Bounding Box, Polygon, or Point_ labeling tool. (If none are present, only answer the questions in the _Questions_ panel.)
+The following are the labeling tools supported on images:
 
-![](<../../.gitbook/assets/image (242).png>)
+* [Bounding Box](../labeling-tools/bounding-box.md)
+* [Rotated Bounding Box](../labeling-tools/rotated-bounding-box.md)
+* [Polygon](../labeling-tools/polygon.md)
+* [Polyline](../labeling-tools/polyline.md)
+* [Segmentation](../labeling-tools/segmentation.md)
+* [Point](../labeling-tools/point.md)
+* [Brush](../labeling-tools/brush-bucket.md)
 
-#### Bounding Box <a href="#bounding-box" id="bounding-box"></a>
+From the _Tools_ panel on the left sidebar, select a supported labeling tool. Then, follow the instructions found on each tool's docs page, linked to above.
 
-Click on the image where you’d like the bounding box to start. Release where you’d like the bounding box to end.
+If no tools are present in the project, only answer the questions in the _Classifications_ panel.
 
-![](<../../.gitbook/assets/image (274).png>)
-
-After creating the box, you can change its size by dragging on its points. You can drag the entire bounding box by dragging it with the mouse cursor.
-
-#### Rotated Bounding Box
-
-Click on the image where you'd like the top-left corner of the rotated bounding box to be. Release where you'd like the box to end.
-
-![](<../../.gitbook/assets/Screen Shot 2021-10-15 at 15.18.23.png>)
-
-You can change the angle of the box by clicking and dragging on the point located just outside the box.
-
-#### Polygon <a href="#polygon" id="polygon"></a>
-
-Click on the image where you’d like the first point of the polygon to be. Click again where you’d like the second point to be, and so on. When you are done, click on the first point again or press on _N_ on your keyboard to close the polygon.
-
-![](<../../.gitbook/assets/image (419).png>)
-
-While drawing, you may click anywhere with the right mouse button to delete the last point you have placed. To add a new point after closing the polygon, hold CTRL and click on a point. To delete a point, hold CTRL and right-click on the point you’d like to delete.
-
-#### Point <a href="#point" id="point"></a>
-
-Simply click on the image where you’d like the point to be.
-
-![](<../../.gitbook/assets/image (202).png>)
-
-You may change the position of the point by clicking and dragging it.
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### Nested Questions and Classifications <a href="#nested-questions-and-classifications" id="nested-questions-and-classifications"></a>
 
-If the labels have nested questions, right-click on each label and click on the menu item that appears to see and answer the nested questions.
+If the labels have nested questions, click on a label to select it, then right-click on it and open the the menu item that appears to see and answer the nested questions.
 
-If classification questions are present, you may answer them from the _Questions_ panel on the left sidebar.
+If classification questions are present, you may answer them from the _Classifications_ panel on the left sidebar.
 
-![](<../../.gitbook/assets/image (435).png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-04 at 10.28.49.png" alt=""><figcaption></figcaption></figure>
 
 ### Quick Settings Menu <a href="#quick-settings-menu" id="quick-settings-menu"></a>
 

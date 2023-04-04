@@ -3,7 +3,7 @@
 1. Navigate to the [_Plugins_ page](https://hub.ango.ai/plugin)
 2. Click on _Show Plugin Directory_
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 3. Depending on the format you need, click on the _Add_ button under the converter plugin that coincides with the format. For example, if you need the COCO format, click _Add_ under the _Ango to COCO Converter_ plugin to add it to your project.
 

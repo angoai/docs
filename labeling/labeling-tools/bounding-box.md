@@ -34,7 +34,7 @@ Click on the image where you’d like the bounding box to start. Click again whe
 
 ![](<../../.gitbook/assets/image (272).png>)
 
-After creating the box, you can change its size by dragging on its points. You can drag the entire bounding box by dragging it with the mouse cursor.
+After creating the box, you can change its size by selecting it by clicking it, then dragging on its points. You can drag the entire bounding box by selecting it then dragging it with the mouse cursor.
 
 ## Perform OCR on the contents of the bounding box
 
@@ -57,11 +57,3 @@ Click on the![](<../../.gitbook/assets/image (7) (1).png>)button to perform OCR 
 In the labeling editor, press _Shift_ and click on the bounding boxes you'd like to perform OCR on. Once you have selected all boxes, right click on any one of them and click on _Run OCR_.
 
 To see the OCR results, right-click on a box and expand the context menu that appears. Alternatively, expand the rows in the _Objects_ section in the lower-left corner of the UI.
-
-### Differences between Bounding Box and Polygon <a href="#differences-between-bounding-box-and-polygon" id="differences-between-bounding-box-and-polygon"></a>
-
-The Bounding Box tool allows annotators to create boxes with 4 edges only. The boxes cannot be rotated. This is ideal when we are not interested in the shape of an object but in its position on the asset.
-
-The Polygon tool allows annotators to create polygons with an unlimited number of points. This is ideal to accurately trace around the edges of an object, for example, and is useful when we are interested in annotating the shape of an object.
-
-In most cases, bounding boxes are much faster to create than polygons.
