@@ -38,7 +38,7 @@ Parameters:
     * **folder**: _str_
     * **projectId:** _str_
     * **integrationId**: _str_
-    * **bucket: **_**** str_
+    * **bucket:** _str_
       * The ID of the project for which the plugin was run.
     * **apiKey**: _str_
     * **orgId**: _str_

@@ -22,7 +22,7 @@ Once you have [reviewed the task](reviewing.md), you will be shown the next avai
 
 * Reviewers cannot review tasks they have labeled themselves. They will be shown the next available task in the queue.
 * Each project has one common review queue. When reviewers open a new task, they pick from the top of the queue the first task that is available to them.
-* By default, all tasks that have been labeled __ become automatically part of the review queue.
+* By default, all tasks that have been labeled become automatically part of the review queue.
 * Tasks that have been assigned to review to user X (for example, X is currently reviewing them) will be unavailable to Y. Y will be given the next task in the queue that is available to them.
 
 Whenever users press on the _Start Reviewing_ button on the top-right corner of the dashboard, they are shown the first task in the review queue. When they complete reviewing, they pick another task from the top of the queue, and so on.

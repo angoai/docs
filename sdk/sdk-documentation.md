@@ -331,9 +331,9 @@ _ToolCategory:_ {Segmentation, Polyline, Polygon, Rotated\_bounding\_box, Ner, P
 
 ToolCategory Parameters:
 
-* **tool:** __ Tool
+* **tool:** Tool
   * The tool type. ex.: `Tool.Segmentation`
-* **title:** __ string, _default ""_
+* **title:** string, _default ""_
   * The title of the tool.
 * **required:** bool, _default None_
   * Whether annotators are required to draw at least one instance of this tool.
@@ -354,9 +354,9 @@ _ClassificationCategory_: {Multi\_dropdown, Single\_dropdown Tree\_dropdown, Rad
 
 ClassificationCategory Parameters:
 
-* **classification:** __ Classification
+* **classification:** Classification
   * The classification type. ex.:`Classification.Tree_dropdown`
-* **title:** __ string, _default ""_
+* **title:** string, _default ""_
   * The title of the classification.
 * **required:** bool, _default None_
   * Whether annotators have to answer this classification or not.
@@ -377,15 +377,15 @@ ClassificationCategory Parameters:
 * **parentOptionId:** string, _default ""_
   * The schema ID of the parent option. That is, the option that the labeler needs to select in order for this classification to appear. Enables conditional nesting.
 * **richText**: _bool, default False_
-  * &#x20;__ Set to True to enable the Rich Text editor for the selected text classification tool.
+  * &#x20;Set to True to enable the Rich Text editor for the selected text classification tool.
 
 _RelationCategory:_ {Single, Group}
 
 RelationCategory Parameters:
 
-* **relation:** __ Relation
+* **relation:** Relation
   * The classification type. ex.:`Relation.Single`
-* **title:** __ string, _default ""_
+* **title:** string, _default ""_
   * The title of the relation.
 * **required:** bool, _default None_
   * Whether annotators have to include at least one such relation in order to submit their annotation.
@@ -1291,7 +1291,7 @@ Outputs:
 {% hint style="info" %}
 **See also**
 
-****[create\_project](sdk-documentation.md#create\_project-name-description), [get\_project](sdk-documentation.md#get\_project-project\_id)
+[create\_project](sdk-documentation.md#create\_project-name-description), [get\_project](sdk-documentation.md#get\_project-project\_id)
 {% endhint %}
 
 ### set\_asset\_priority(project\_id, priority, external\_id, asset\_id)

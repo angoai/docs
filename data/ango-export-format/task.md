@@ -6,7 +6,7 @@ description: Page explaining how tasks are represented in the Ango Annotation Fo
 
 _This page is about the `task` object in Ango Hub's export file. For more information on tasks as they are used in Ango Hub, see the page named_ [_Tasks_](../../core-concepts/tasks.md)_._
 
-The task is the main sub-unit of the [_Asset_](asset.md) __ in the Ango Annotation Format. When obtaining an export from Ango Hub, you are essentially getting a list of assets, which contains a list of labeling tasks.
+The task is the main sub-unit of the [_Asset_](asset.md) in the Ango Annotation Format. When obtaining an export from Ango Hub, you are essentially getting a list of assets, which contains a list of labeling tasks.
 
 Tasks are what contain the actual labeling data (e.g. points, classifications, relations, etc.)
 

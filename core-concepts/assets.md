@@ -42,7 +42,7 @@ Hovering the mouse cursor over an externalId will show the full external ID of t
 
 An asset’s status shows where the asset is currently located in the labeling pipeline. The status of an asset can be viewed from the _Assets_ tab. An asset can have one of four different statuses:
 
-****<img src="../.gitbook/assets/image (465).png" alt="" data-size="line">: An asset is to do when none of its labeling tasks, nor any of the reviewing tasks have been completed.
+<img src="../.gitbook/assets/image (465).png" alt="" data-size="line">: An asset is to do when none of its labeling tasks, nor any of the reviewing tasks have been completed.
 
 <img src="../.gitbook/assets/image (213).png" alt="" data-size="line">: An asset is in progress when at least one, but not all of its labeling tasks have been completed.
 

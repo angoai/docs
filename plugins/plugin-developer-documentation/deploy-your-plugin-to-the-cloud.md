@@ -19,7 +19,7 @@ This page will detail one of the many ways in which you can deploy your code to 
 
 1. Sign in to the [LightSail console](https://lightsail.aws.amazon.com/).
 2. Enter the [containers](https://lightsail.aws.amazon.com/ls/webapp/home/containers) tab.
-3. Choose [_Create Container Service_](https://lightsail.aws.amazon.com/ls/webapp/create/container-service)__
+3. Choose [_Create Container Service_](https://lightsail.aws.amazon.com/ls/webapp/create/container-service)
 4. Choose _Change AWS Region_, then pick the region from which you'd like to run your plugin.
 5. Choose a capacity for your container service.
 

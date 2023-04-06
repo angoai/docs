@@ -158,13 +158,13 @@ The _three dots_ open a submenu with a number of options:
 
 ![](<../../.gitbook/assets/image (204).png>)
 
-__<img src="../../.gitbook/assets/image (108).png" alt="" data-size="line">_Set as benchmark_ sets the current task as benchmark.
+<img src="../../.gitbook/assets/image (108).png" alt="" data-size="line">_Set as benchmark_ sets the current task as benchmark.
 
-__<img src="../../.gitbook/assets/image (233).png" alt="" data-size="line"> _Requeue_ resets the current task and puts it back into the labeling or reviewing queue. (e.g., it will be shown to labelers and reviewers again)
+<img src="../../.gitbook/assets/image (233).png" alt="" data-size="line"> _Requeue_ resets the current task and puts it back into the labeling or reviewing queue. (e.g., it will be shown to labelers and reviewers again)
 
-__<img src="../../.gitbook/assets/image (143).png" alt="" data-size="line">_Delete_ deletes the current task.
+<img src="../../.gitbook/assets/image (143).png" alt="" data-size="line">_Delete_ deletes the current task.
 
-__<img src="../../.gitbook/assets/image (291).png" alt="" data-size="line">_Change Assignee_ changes the assignee of the current task. Practically, it changes the name of the person who has labeled the task.
+<img src="../../.gitbook/assets/image (291).png" alt="" data-size="line">_Change Assignee_ changes the assignee of the current task. Practically, it changes the name of the person who has labeled the task.
 
 #### Left toolbar
 

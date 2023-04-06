@@ -197,7 +197,7 @@ In the Config JSON area, you can tweak a number of settings. By default, they ar
 }
 ```
 
-* `batch_name_column`: Input here the title of the column you wish to use to assign assets to batches, as explained [in this section](column-agnostic-markdown-generator.md#assigning-rows-assets-to-batches-on-upload). Leaving it on `"AUTO_DETECT"` will make it so that _`batch, batch_name, batch-name, batchname` _ will be used to detect batch columns.
+* `batch_name_column`: Input here the title of the column you wish to use to assign assets to batches, as explained [in this section](column-agnostic-markdown-generator.md#assigning-rows-assets-to-batches-on-upload). Leaving it on `"AUTO_DETECT"` will make it so that _`batch, batch_name, batch-name, batchname`_ will be used to detect batch columns.
   * Example: `"batch_name_column": "my_batch"`
 * `external_id_columns`: Specify here the column(s) to be used as external IDs. If you specify more than one column, the resulting external ID for each asset will be `FIRSTCOLUMNID_SECONDCOLUMN` and so forth, separated with an underscore.
   * Example: `"external_id_columns": ["id", "phone"]`

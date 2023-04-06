@@ -6,13 +6,13 @@ description: >-
 
 # Single Relation
 
-The Single Relation labeling tool allows you to create a relation between two [bounding box](../bounding-box.md), [point](../point.md), or [polygon](../polygon.md) labels.
+The Single Relation labeling tool allows you to create a relation between two annotations.
 
 ![](<../../../.gitbook/assets/Screen Shot 2021-10-15 at 15.32.51.png>)
 
-## The Single Relation Labeling Tool in Ango Hub <a href="#how-to-add-a-bounding-box-tool-to-your-project" id="how-to-add-a-bounding-box-tool-to-your-project"></a>
 
-### How to add a Single Relation tool to your project <a href="#how-to-add-a-bounding-box-tool-to-your-project" id="how-to-add-a-bounding-box-tool-to-your-project"></a>
+
+## How to add a Single Relation tool to your project <a href="#how-to-add-a-bounding-box-tool-to-your-project" id="how-to-add-a-bounding-box-tool-to-your-project"></a>
 
 From the project’s _Settings_ tab, enter the _Label Set_ section.
 

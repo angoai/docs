@@ -66,6 +66,7 @@
     * [Tree Dropdown](labeling/labeling-tools/classification-tools/tree-dropdown.md)
   * [Relation Tools](labeling/labeling-tools/relation-tools/README.md)
     * [Single Relation](labeling/labeling-tools/relation-tools/single-relation.md)
+    * [Group Relation](labeling/labeling-tools/relation-tools/group-relation.md)
     * [Table](labeling/labeling-tools/relation-tools/table.md)
 * [Smart Scissors](labeling/smart-scissors.md)
 

@@ -14,7 +14,7 @@ By clicking on the <img src="../.gitbook/assets/image (192).png" alt="" data-siz
 
 ## Performance Page Columns
 
-**Labels **_****_ shows how many labeling tasks an annotator has completed, plus how many are left.
+**Labels** shows how many labeling tasks an annotator has completed, plus how many are left.
 
 **Annotations** is the number and type of annotations an annotator has successfully submitted.
 

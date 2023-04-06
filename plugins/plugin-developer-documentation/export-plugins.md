@@ -37,7 +37,7 @@ Parameters:
 
 Parameters:
 
-* **\*\*data**: **** _dict_
+* **\*\*data**: _dict_
   * **projectId:** _str_
     * The ID of the project for which the export was wanted.
   * **jsonExport:** _dict_
