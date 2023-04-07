@@ -27,7 +27,7 @@ From Hub, click on _Plugins_ on the top navbar, then enter the _Development_ sec
 
 A dialog will appear:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Name**. The name of your plugin.
 * **Description**. A description for your plugin. This will always appear next to the plugin's name.

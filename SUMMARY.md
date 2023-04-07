@@ -116,6 +116,7 @@
 * [Importing and Exporting Annotations](data/importing-and-exporting-annotations/README.md)
   * [Importing Annotations](data/importing-and-exporting-annotations/importing-annotations/README.md)
     * [Ango Import Format](data/importing-and-exporting-annotations/importing-annotations/ango-hub-import-format.md)
+    * [Importing Brush Traces](data/importing-and-exporting-annotations/importing-annotations/importing-brush-traces.md)
     * [Importing NRRD Annotations](data/importing-and-exporting-annotations/importing-annotations/importing-nrrd-annotations.md)
   * [Exporting Annotations](data/importing-and-exporting-annotations/exporting-annotations.md)
 * [Integrations](data/integrations/README.md)

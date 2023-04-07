@@ -63,7 +63,7 @@ you may use the tool's name (title) like so:
 
 `"title": "Name of My Tool"`
 
-and Ango Hub will try to guess which tool you meant. If you have more than one tool with the same name, Ango Hub will pick one randomly.
+This, however, is not recommended since Ango Hub will have to guess which tool you meant. If you have more than one tool with the same name, Ango Hub will pick one randomly.
 {% endhint %}
 
 To obtain each tool's schema ID, navigate to the _Label Set_ section of the _Settings._ You will find it when expanding the details of each tool.
@@ -75,7 +75,7 @@ Create and save your project's label set before attempting to import labels.
 
 Ensure the schema IDs in your import file match the ones in the _Label Set_ section of your project's settings.
 
-Nested classifications have their own, separate Schema IDs. They do not inherit the Schema ID of their parent label.
+Nested classifications have their own, separate Schema IDs. They do not inherit the Schema ID of their parent class.
 {% endhint %}
 
 #### Object ID
