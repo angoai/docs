@@ -45,7 +45,7 @@ The external ID of each asset can be viewed from the _Assets_ tab of your projec
 External IDs do not have to be unique. You can have more than one asset with the same external ID.
 
 {% hint style="info" %}
-It is possible to import annotations referencing assets with only their external IDs, as in many exampled below. In this situation, however, if more than one asset shares the same external ID, only the one uploaded first will be pre-labeled.
+It is possible to import annotations referencing assets with only their external IDs, as in many exampled below. In this situation, all assets sharing the same external ID will be pre-labeled.
 {% endhint %}
 
 ### Annotations (Objects)
