@@ -28,7 +28,7 @@ There are two ways to add a group relation in Hub.
 
 1. Click on the first label to include in the group relation. Then, shift-click on all other annotations you wish to include. Right-click on any one of them, and select your group relation under the _Grouping_ menu item:
 
-<figure><img src="../../../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on any one of the _Group Relation_ tools you have created from the _Tools_ section on the left of the screen. Then, left-click on all annotations you wish to include. Press "N" on your keyboard when you are done to close the group relation.
 
