@@ -55,4 +55,10 @@ Assuming you had one brush class on Hub with the hex color value `f44336`, the f
 
 Where `externalId` is the external ID of the asset to pre-annotate, and `brushDataUrl` is a link to your publicly-accessible PNG mask.
 
+{% hint style="warning" %}
+If your masks are stored in a cloud storage service, ensure the bucket's CORS settings are set properly, or your masks will not be visible on Hub.
+
+[Here is a guide](../../integrations/set-up-cors.md) on how to set up CORS in such a way that your masks will be visible.
+{% endhint %}
+
 5. In your project, navigate to the _Assets_ tab, then click on _Import_. Drag and drop the JSON file you have just prepared. Your assets will be pre-labeled.
