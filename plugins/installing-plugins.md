@@ -1,5 +1,9 @@
 # Installing Plugins
 
+## Obtaining your API Key
+
+In order to install plugins, you will need to have an API key associated with your account. To obtain one, please follow the steps [in this page](../how-to/get-your-api-key.md).
+
 ## Installing Plugins
 
 Ango AI provides a centralized repository of plugins called the Directory. Anyone may upload to, and install plugins from the Directory.
