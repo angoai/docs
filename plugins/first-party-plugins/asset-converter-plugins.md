@@ -4,7 +4,7 @@ The Asset Converter plugins allow you to convert a folder of files present in a 
 
 Usually, such plugins convert files from a format that is not supported by Ango Hub to one that is.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Appearance of one of the plugins.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Appearance of one of the plugins.</p></figcaption></figure>
 
 ## Plugin Functionality
 

@@ -46,6 +46,6 @@ Open the re-queue dialog as shown in [the previous section](re-queuing.md#how-to
 
 From the re-queue dialog, choose _Send Back to Review Queue._
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Remove Reviewer**: Removes the task assignee. If you do not remove the assignee, the task will be re-queued, but it will only be able to be reviewed by the reviewer who has reviewed it earlier. If you do remove it, it will be assigned for review to the first reviewer who comes across it.

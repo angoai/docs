@@ -36,13 +36,13 @@ With the _PDF_ tool selected, click and drag where you’d like the area to be p
 
 After creating the area and selecting by clicking on it, you can change its size by dragging it from its sides and corners. You can drag the entire area by dragging it with the mouse cursor.
 
-You can perform OCR on the contents of the box by selecting it by clicking it, then right-clicking on the box and pressing the ![](<../../.gitbook/assets/image (4).png>)_OCR_ button as shown here:
+You can perform OCR on the contents of the box by selecting it by clicking it, then right-clicking on the box and pressing the ![](<../../.gitbook/assets/image (4) (1).png>)_OCR_ button as shown here:
 
 ![](<../../.gitbook/assets/image (236).png>)
 
 After having performed OCR, you'll be shown how confident Hub is that the OCR it output is correct:
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Nested Questions and Classifications <a href="#nested-questions-and-classifications" id="nested-questions-and-classifications"></a>
 

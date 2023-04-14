@@ -18,7 +18,7 @@ Click on _Add Category_. From the list that appears, click on _Entity_.
 
 A new row will appear named _Entity_. Click on it to expand it.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 Give your entity tool a title.
 

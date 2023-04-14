@@ -16,7 +16,7 @@ Click on _Add Category_. From the list that appears, click on _Group_.
 
 A new row will appear named _Group_. Click on it to expand it.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Give your group relation tool a title and description.
 

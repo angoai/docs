@@ -127,6 +127,7 @@
 * [Download a JSON of your project ontology](how-to/download-a-json-of-your-project-ontology.md)
 * [Transfer project ontologies between projects](how-to/transfer-project-ontologies-between-projects.md)
 * [Get your Organization ID](how-to/get-your-organization-id.md)
+* [Get your API Key](how-to/get-your-api-key.md)
 * [Download DICOM Segmentation Masks](how-to/download-dicom-segmentation-masks.md)
 * [Download your Segmentation Masks](how-to/download-your-segmentation-masks.md)
 * [Download your annotations in the COCO, KITTI, or YOLO format](how-to/download-your-annotations-in-the-coco-kitti-or-yolo-format.md)
