@@ -1,5 +1,17 @@
 # Changelog
 
+### \[2.23.0] - 2023-04-10
+
+*   Changed the way annotations are selected. Now, left-clicking on an annotation selects it.
+
+    ![Image](https://drive.google.com/uc?id=1BPMDtBEyNuS6s0Z-I7xmJ84NOgY3pIsw)
+* NER annotations can now be edited in length after being created. ![Image](https://drive.google.com/uc?id=1BVQRIQ8QOipAas7BP1vITdac68FSOn3k)
+* Enabled creating and selecting group relations on NER labeling tasks. ![Image](https://drive.google.com/uc?id=1BPSeL5i8QwHXiPkTP6IwBX0-zwRZoIvF)
+* Annotations on image labeling tasks can now be selected as a group with shift-clicking.
+* Polygons and polylines can now be dragged in their entirety. ![Image](https://drive.google.com/uc?id=1BTe0iZhs-NypWUstD0bMGK7xDLpTVtnC&)
+* Plugin developers can now show users longer text plugin descriptions formatted in rich text, in a new field called "Details". This field is shown to users when they open the plugin.
+* Attachment information is now included in exports.
+
 ### \[2.22.0] - 2023-03-13
 
 *   Improved performance of project dashboards by adding caching and on-demand retrieval of data
