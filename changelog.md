@@ -1,5 +1,17 @@
 # Changelog
 
+### \[2.24.0] - 2023-04-25
+
+*   The size of point annotations can now be changed through a slider in the editor's Quick Settings
+
+    ![Image](https://drive.google.com/uc?id=1CKduDahitPDNBMMdUwSTppJzjgGyihtC)
+*   PDF assets can now be zoomed in and out during labeling through new zoom controls located at the top
+
+    ![Image](https://drive.google.com/uc?id=1CVUHW4wBwDPHVgHa3UC-a-RznOr4GUaH)
+*   You can now jump to the bottom-most annotation on PDFs by clicking on the "Jump to Last Annotation" button next to the PDF zoom controls
+
+    ![Image](https://drive.google.com/uc?id=1CYUgyPKnPyJi7ong7p1NIMEhtwlSqY84)
+
 ### \[2.23.0] - 2023-04-10
 
 *   Changed the way annotations are selected. Now, left-clicking on an annotation selects it.
