@@ -1,10 +1,18 @@
 ---
-description: Welcome to Ango Hub's documentation pages.
+description: Welcome to Ango Hub v2's documentation pages.
 ---
 
 # Ango Hub Documentation
 
 ![](<.gitbook/assets/Group 46874.png>)
+
+{% hint style="info" %}
+This is the documentation for Ango Hub version 2. V2 is our currently supported production release of Ango Hub.
+
+To check your current version of Ango Hub, click on your profile circle at the top right of the screen and click on _About_.
+
+If you are a beta user testing v3, please visit this link to access v3's documentation: [https://angoadmin.gitbook.io/ango-hub-v3/](https://angoadmin.gitbook.io/ango-hub-v3/)
+{% endhint %}
 
 ## Welcome to [Ango Hub](https://ango.ai/ango-hub) and its documentation.
 
