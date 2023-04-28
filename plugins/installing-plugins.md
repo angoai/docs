@@ -20,6 +20,6 @@ Click on _Plugins_ from the top navbar, then on _Organization Plugins_. Click on
 
 The Directory will open, listing all plugins that have been marked as "Public" and "Listed," as well as  all "Listed" plugins from your own organization regardless of "Public" status:
 
-<figure><img src="../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Plugin Directory.png" alt=""><figcaption><p>Plugin Directory</p></figcaption></figure>
 
 Clicking on _Add_ below a plugin will instantly add it to your own organization.

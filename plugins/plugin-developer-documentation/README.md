@@ -13,7 +13,8 @@ In short, you'll create a plugin on Hub. This will provide you with a plugin ID 
 ## Types of Custom Plugins Available
 
 * [**Export**](export-plugins.md). Create a script to automatically convert Ango Hub's export to the format of your choice.
-* [**Model**](batch-model-plugins.md). Integrate your ML model into Ango Hub, pass in assets and pre-label with its results.
+* [<mark style="color:blue;">**Batch Model**</mark>](batch-model-plugins.md). Integrate your ML model into Ango Hub, pass in assets and pre-label with its results. Run the model for a batch of assets.
+* [**Model**](model-plugins.md). Integrate your ML model into Ango Hub, pass in assets and pre-label with its results.
 * [**File Explorer**](file-explorer-plugins.md). Link your cloud storage of choice to Ango Hub and navigate its file structure directly within Hub itself. Then, bulk import assets from a folder with a single click.
 * [**Markdown Generator**](markdown-generator-plugins.md)**.** Get a Markdown and a .csv file. Process them with a Python script, and upload the results to Hub as a markdown asset.
 
@@ -73,8 +74,10 @@ As mentioned above, each plugin type has a different way of being set and run. P
 
 ## [Export Plugins](export-plugins.md)
 
-## [File Explorer Plugins](file-explorer-plugins.md)
+## [Batch Model Plugins](batch-model-plugins.md)
 
-## [Model Plugins](batch-model-plugins.md)
+## [Model Plugins](model-plugins.md)
+
+## [File Explorer Plugins](file-explorer-plugins.md)
 
 ## [Markdown Generator Plugins](markdown-generator-plugins.md)
