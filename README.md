@@ -11,7 +11,7 @@ This is the documentation for Ango Hub version 2. V2 is our currently supported 
 
 To check your current version of Ango Hub, click on your profile circle at the top right of the screen and click on _About_.
 
-If you are a beta user testing v3, please visit this link to access v3's documentation: [https://angoadmin.gitbook.io/ango-hub-v3/](https://angoadmin.gitbook.io/ango-hub-v3/)
+If you are a beta user testing v3, please visit this link to access v3's documentation: [docs-v3.ango.ai](https://docs-v3.ango.ai)
 {% endhint %}
 
 ## Welcome to [Ango Hub](https://ango.ai/ango-hub) and its documentation.
