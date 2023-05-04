@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ango Hub Documentation](README.md)
+* [Ango Hub v3 Documentation](README.md)
 * [Ango AI Website](https://ango.ai)
 * [Video Guides](video-guides.md)
 * [Changelog](changelog.md)
