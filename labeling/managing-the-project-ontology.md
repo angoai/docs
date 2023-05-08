@@ -10,7 +10,7 @@ You can set and manage the ontology of your project by navigating to your projec
 
 You can add a new labeling tool (e.g., a new class) to your project by clicking on the _Add Category_ button, then selecting the type of tool you'd like to add.
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 There is no limit to how many labeling tools you may have in your project.
 

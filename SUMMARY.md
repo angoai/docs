@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ango Hub v3 Documentation](README.md)
+* [Ango Hub v2 Documentation](README.md)
 * [Ango AI Website](https://ango.ai)
 * [Video Guides](video-guides.md)
 * [Changelog](changelog.md)
@@ -151,3 +151,4 @@
 ## Troubleshooting
 
 * [I get a 'The data couldn't be loaded properly' error when opening certain assets](troubleshooting/i-get-a-the-data-couldnt-be-loaded-properly-error-when-opening-certain-assets.md)
+* [My model plugin does not show up in the "Detector" list in the labeling editor](troubleshooting/my-model-plugin-does-not-show-up-in-the-detector-list-in-the-labeling-editor.md)
