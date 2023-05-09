@@ -5,7 +5,7 @@ You may import PNG masks as pre-labels for the [Brush labeling tool](../../../la
 ## How to Import Masks as Brush Annotations
 
 1. In your project, navigate to _Settings_, and then to _Category Schema_. Ensure your project has the Brush tool classes you intend to import.
-2. For each Brush tool in your project, take note of its hexadecimal color value. You can do so by pressing on the <img src="../../../.gitbook/assets/image.png" alt="" data-size="line"> _Show JSON_ button on the right.
+2. For each Brush tool in your project, take note of its hexadecimal color value. You can do so by pressing on the <img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> _Show JSON_ button on the right.
 
 For example, in the following project, I have a single Brush labeling tool, and its hex color value is `#f44336`.
 

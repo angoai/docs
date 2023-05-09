@@ -26,6 +26,12 @@ A new row will appear named _Bounding Box_. Click on it to expand it.
 
 **Targeted OCR**: By enabling this, you will be able to perform OCR and get the OCR results in the exports for the areas highlighted by the bounding boxes belonging to this class.
 
+{% hint style="info" %}
+By default, targeted OCR only detects English. To change, add, or remove which languages should be detected in your project, head over to _Settings -> Quality_ to do so:
+
+![](../../.gitbook/assets/image.png)
+{% endhint %}
+
 If you would like to ask labelers further questions, for example, if you want to show a further _radio_ after drawing the bounding box, click on _Add Classification_ and add a further question. [More on nested questions here](nested-classifications.md).
 
 ### How to Draw a Bounding Box <a href="#how-to-draw-a-bounding-box" id="how-to-draw-a-bounding-box"></a>
