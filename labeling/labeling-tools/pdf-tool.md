@@ -39,7 +39,7 @@ With the _PDF_ tool selected, click and drag where you’d like the bounding box
 {% hint style="info" %}
 By default, targeted OCR only detects English. To change, add, or remove which languages should be detected in your project, head over to _Settings -> Quality_ to do so:
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (5).png>)
 {% endhint %}
 
 #### Single OCR

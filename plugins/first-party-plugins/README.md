@@ -19,9 +19,9 @@ Each plugin links to its documentation page (if available).
 
 ### Export Converters
 
-* [ANGO to KITTI Converter](ango-export-converter-plugins.md)
-* [ANGO to YOLO Converter](ango-export-converter-plugins.md)
-* [ANGO to COCO Converter](ango-export-converter-plugins.md)
+* [ANGO to KITTI Converter](ango-export-to-kitti-coco-yolo-converter-plugins.md)
+* [ANGO to YOLO Converter](ango-export-to-kitti-coco-yolo-converter-plugins.md)
+* [ANGO to COCO Converter](ango-export-to-kitti-coco-yolo-converter-plugins.md)
 * [TPT Export](tpt-export.md)
 
 ### Labeling Assistance

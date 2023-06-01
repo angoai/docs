@@ -29,7 +29,7 @@ A new row will appear named _Bounding Box_. Click on it to expand it.
 {% hint style="info" %}
 By default, targeted OCR only detects English. To change, add, or remove which languages should be detected in your project, head over to _Settings -> Quality_ to do so:
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (5).png>)
 {% endhint %}
 
 If you would like to ask labelers further questions, for example, if you want to show a further _radio_ after drawing the bounding box, click on _Add Classification_ and add a further question. [More on nested questions here](nested-classifications.md).

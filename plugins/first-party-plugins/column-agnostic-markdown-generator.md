@@ -48,11 +48,7 @@ If you do not wish to use the default names for the batch column, you may specif
 
 When running the plugin, you may select a column to be the provider of external IDs for each asset. For example, if you select the column "id" for the following table:
 
-| id | name   | surname   | age |
-| -- | ------ | --------- | --- |
-| 1  | Thomas | Haverford | 28  |
-| 2  | Leslie | Knope     | 32  |
-| 3  | Ronald | Swanson   | 48  |
+<table><thead><tr><th width="77">id</th><th>name</th><th>surname</th><th width="148">age</th></tr></thead><tbody><tr><td>1</td><td>Thomas</td><td>Haverford</td><td>28</td></tr><tr><td>2</td><td>Leslie</td><td>Knope</td><td>32</td></tr><tr><td>3</td><td>Ronald</td><td>Swanson</td><td>48</td></tr></tbody></table>
 
 The assets created with this table will have, as external ID, "1", "2", and "3".
 

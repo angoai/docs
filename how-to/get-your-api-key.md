@@ -14,7 +14,7 @@
 
 4. Once an API key is present, click on the _Copy to Clipboard_ button next to it to copy it to your clipboard. You may now paste it where necessary.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Sharing your API key is the same as sharing your password.

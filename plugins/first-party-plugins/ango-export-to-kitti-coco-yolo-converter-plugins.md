@@ -1,4 +1,4 @@
-# Ango Export Converter Plugins
+# Ango Export to KITTI, COCO, YOLO Converter Plugins
 
 The Ango Export Converter plugins are made, published, and officially supported by Ango AI, allowing you to download your annotations in formats not supported within Ango Hub's core functionality.
 
@@ -13,7 +13,6 @@ Currently, we offer the following additional export formats through plugins:
 * KITTI
 * YOLO
 * COCO
-* NIFTI (In alpha stage, not publicly available yet)
 
 {% hint style="warning" %}
 The only way to ensure you get all of the data created with Ango Hub is to download your export in the original [Ango Export Format](../../data/ango-export-format/) (JSON).
@@ -32,7 +31,6 @@ Currently, the names of our Export Converter plugins are the following:
 * \[Ango] to \[KITTI] Converter
 * \[Ango] to \[YOLO] Converter
 * \[Ango] to \[COCO] Converter
-* NIFTI Export (In alpha stage, not publicly available yet)
 
 ### Usage
 
@@ -65,9 +63,3 @@ You may vary a number of settings related to your export from the _Config JSON_ 
   * For example, if you set this to 10, you will get a log message every time 10 assets are processed.
 
 Click on _Run_ to receive your export. You'll get a notification when it's ready. Clicking on the notification will start the download of your export.
-
-#### NIFTI Export (In alpha stage, not publicly available yet)
-
-You can get your export as a NIFTI only for .nrrd assets annotated in the [NRRD Labeling Editor](../../labeling/labeling-editor-interface/new-medical-labeling-editor.md).
-
-The NRRD file will be served to you as a link in the `medicalBrushDataNIFTIUrl`property of each asset in the JSON export.
