@@ -140,7 +140,7 @@ if __name__ == "__main__":
 
 Find the always up-to-date version of this code at the following link:
 
-{% embed url="https://github.com/angoai/plugin-samples/blob/main/model_plugin.py" %}
+{% embed url="https://github.com/angoai/plugin-samples/blob/main/v2/model_plugin.py" %}
 
 ## Running a Model using the Plugin
 

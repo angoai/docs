@@ -153,7 +153,7 @@ For this example, we use the following default Config JSON:
 
 Find an always up-to-date code sample at the following link:
 
-{% embed url="https://github.com/angoai/plugin-samples/blob/main/batch_model_plugin.py" %}
+{% embed url="https://github.com/angoai/plugin-samples/blob/main/v2/batch_model_plugin.py" %}
 
 ## Running a Model using the Plugin
 

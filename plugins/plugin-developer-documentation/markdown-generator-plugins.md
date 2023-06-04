@@ -214,7 +214,7 @@ if __name__ == "__main__":
 
 Find an always up-to-date version of this sample code at:
 
-{% embed url="https://github.com/angoai/plugin-samples/blob/main/markdown_plugin.py" %}
+{% embed url="https://github.com/angoai/plugin-samples/blob/main/v2/markdown_plugin.py" %}
 
 For this example, we use the following default Config JSON:
 

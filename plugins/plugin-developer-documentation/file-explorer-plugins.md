@@ -164,7 +164,7 @@ if __name__ == "__main__":
     run(plugin, host=HOST)
 ```
 
-{% embed url="https://github.com/angoai/plugin-samples/blob/main/file_explorer_plugin.py" %}
+{% embed url="https://github.com/angoai/plugin-samples/blob/main/v2/file_explorer_plugin.py" %}
 
 ## Running the File Explorer
 
