@@ -32,7 +32,7 @@ Open the re-queue dialog as shown in [the previous section](re-queuing.md#how-to
 
 From the re-queue dialog, choose _Send Back to Label Queue._
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Remove Annotations**: Deletes the annotations in the task(s) selected. This operation cannot be reversed.
 

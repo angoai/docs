@@ -133,6 +133,7 @@
 * [Download your Segmentation Masks](how-to/download-your-segmentation-masks.md)
 * [Download your annotations in the COCO, KITTI, or YOLO format](how-to/download-your-annotations-in-the-coco-kitti-or-yolo-format.md)
 * [Perform targeted OCR on images](how-to/perform-targeted-ocr-on-images.md)
+* [Download only part of your export](how-to/download-only-part-of-your-export.md)
 
 ## API
 
