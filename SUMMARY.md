@@ -126,6 +126,7 @@
 ## How-To
 
 * [Download a JSON of your project ontology](how-to/download-a-json-of-your-project-ontology.md)
+* [Download your project's export through the SDK](how-to/download-your-projects-export-through-the-sdk.md)
 * [Transfer project ontologies between projects](how-to/transfer-project-ontologies-between-projects.md)
 * [Get your Organization ID](how-to/get-your-organization-id.md)
 * [Get your API Key](how-to/get-your-api-key.md)

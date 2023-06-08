@@ -1,4 +1,4 @@
-# Download a JSON of your project ontology
+# Download your project's export through the SDK
 
 1. [Get your API key](../sdk/sdk-documentation.md#obtaining-your-api-key). Note it somewhere.
 2. [Download and install the `"ango<1.0"` package from pip](../sdk/sdk-documentation.md#how-to-install-the-ango-sdk).
@@ -13,7 +13,7 @@ PROJECT_ID = "<YOUR PROJECT ID>"
 
 ango_sdk = SDK(API_KEY)
 
-res = ango_sdk.get_project(PROJECT_ID)
+res = ango_sdk.export(PROJECT_ID)
 
 json_object = json.dumps(res, indent=2)
 print(json_object)
