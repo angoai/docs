@@ -147,9 +147,8 @@
 ## SDK
 
 * [SDK Documentation](sdk/sdk-documentation.md)
-* [Ango SDK in PyPI](https://pypi.org/project/ango/)
-* [Ango SDK Interactive Notebook](https://colab.research.google.com/drive/1HMWQCHWxnNJZvztGPpSqgpWWZ9Y8kHfS?usp=sharing)
 * [SDK Changelog](sdk/sdk-changelog.md)
+* [Ango SDK in PyPI](https://pypi.org/project/ango/)
 
 ## Troubleshooting
 
