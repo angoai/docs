@@ -4,28 +4,16 @@ description: How to install and use Ango Hub's Python SDK.
 
 # SDK Documentation
 
-{% hint style="danger" %}
-**Important Compatibility Notice**
-
-Starting from May 2023, users of Ango Hub v2 will need to install and update the `ango` package using the `"<1.0"` flag to ensure they do not update to `ango` 1.0.0 and above.
-
-SDK version 1.0.0 and above are incompatible with Ango Hub v2.
-
-For example, to install and update the `ango` package for use with v2, you will need to run the following command:
-
-`pip install -U "ango<1.0"`
-{% endhint %}
-
 We provide a Python SDK to interface programmatically with Ango Hub.
 
 ## How to Install the Ango SDK
 
-To use the Ango SDK, you will need the `ango` Python package with version starting with 0, [which we publish on PyPI](https://pypi.org/project/ango/).
+To use the Ango SDK, you will need the `ango` Python package, [which we publish on PyPI](https://pypi.org/project/ango/).
 
 To download and add the package to your current Python environment, simply run&#x20;
 
 ```
-pip install -U "ango<1.0"
+pip install -U ango
 ```
 
 ## How to upgrade the Ango SDK
@@ -33,7 +21,7 @@ pip install -U "ango<1.0"
 To upgrade the `ango` package to its latest version in your current Python environment run
 
 ```
-pip install -U "ango<1.0"
+pip install -U ango
 ```
 
 ## Obtaining your API Key
