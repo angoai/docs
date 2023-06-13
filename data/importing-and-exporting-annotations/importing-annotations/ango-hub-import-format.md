@@ -684,6 +684,53 @@ Video labeling is functionally the same as image labeling, with the only differe
 ]
 ```
 
+## Multi-Image Assets
+
+Importing annotations for multi-image assets is functionally the same as importing labels for videos, with each image being a "page":
+
+```json
+[
+  {
+    "externalId": "20220728172632_20220728_173611_0002",
+    "objects": [
+      {
+        "schemaId": "fb4771a3d540f9c3ad8e084",
+        "page": 6,
+        "title": "Tumors",
+        "bounding-box": {
+          "x": 192.51348920863308,
+          "y": 166.90647482014387,
+          "width": 66.18705035971223,
+          "height": 61.8705035971223
+        }
+      },
+      {
+        "schemaId": "fb4771a3d540f9c3ad8e084",
+        "page": 7,
+        "title": "Tumors",
+        "bounding-box": {
+          "x": 192.51348920863308,
+          "y": 166.90647482014387,
+          "width": 66.18705035971223,
+          "height": 61.8705035971223
+        }
+      },
+      {
+        "schemaId": "fb4771a3d540f9c3ad8e084",
+        "page": 8,
+        "title": "Tumors",
+        "bounding-box": {
+          "x": 192.51348920863308,
+          "y": 166.90647482014387,
+          "width": 66.18705035971223,
+          "height": 61.8705035971223
+        }
+      }
+    ]
+  }
+]
+```
+
 ## PDF Labeling
 
 ### PDF Area
